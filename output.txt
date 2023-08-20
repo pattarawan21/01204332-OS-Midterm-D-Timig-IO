@@ -1,0 +1,4 @@
+4
+14
+Total Time with I/O : 2369
+Total Time without I/O : 0
